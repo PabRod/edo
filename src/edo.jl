@@ -1,7 +1,5 @@
 module edo
 
-greet() = print("Hello World!")
-
 """
     euler(∂y∂t, y₀, [t₀=.0, t₁=.01])
 
