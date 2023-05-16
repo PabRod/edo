@@ -1,0 +1,4 @@
+name = "edo"
+uuid = "5af93a52-9085-418c-bfc0-c4b5ac23e7d2"
+authors = ["Pablo Rodríguez Sánchez <pablo.rodriguez.sanchez@gmail.com>"]
+version = "0.1.0"
