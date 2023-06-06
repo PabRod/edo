@@ -26,7 +26,7 @@ Returns a damped oscillator differential equation
 function oscillator(ω₀=2π, ζ=0.0)
     function ∂y∂t(y, t=0.0)
         return ([y[2],
-            -2 * ζ * ω₀ * y[2] - ω₀^2 * y[1]])
+                -2 * ζ * ω₀ * y[2] - ω₀^2 * y[1]])
     end
 end
 
